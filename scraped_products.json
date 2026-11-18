@@ -1,0 +1,202 @@
+[
+  {
+    "id": "PRD-0001",
+    "name": "Running Shorts",
+    "category": "Clothing",
+    "price": 60.18,
+    "rating": 4.7,
+    "reviews": 106,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:37.678694+00:00"
+  },
+  {
+    "id": "PRD-0002",
+    "name": "Yoga Mat",
+    "category": "Home & Garden",
+    "price": 80.69,
+    "rating": 4.4,
+    "reviews": 193,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:37.779105+00:00"
+  },
+  {
+    "id": "PRD-0003",
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Clothing",
+    "price": 33.23,
+    "rating": 3.5,
+    "reviews": 75,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:37.879302+00:00"
+  },
+  {
+    "id": "PRD-0004",
+    "name": "Yoga Mat",
+    "category": "Clothing",
+    "price": 27.91,
+    "rating": 3.7,
+    "reviews": 398,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:37.979533+00:00"
+  },
+  {
+    "id": "PRD-0005",
+    "name": "Backpack",
+    "category": "Sports",
+    "price": 126.35,
+    "rating": 3.9,
+    "reviews": 380,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:38.079759+00:00"
+  },
+  {
+    "id": "PRD-0006",
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 65.23,
+    "rating": 4.0,
+    "reviews": 404,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:38.180368+00:00"
+  },
+  {
+    "id": "PRD-0007",
+    "name": "Phone Case",
+    "category": "Books",
+    "price": 13.75,
+    "rating": 3.7,
+    "reviews": 469,
+    "in_stock": false,
+    "scraped_at": "2026-11-18T17:26:38.285365+00:00"
+  },
+  {
+    "id": "PRD-0008",
+    "name": "Laptop Stand",
+    "category": "Home & Garden",
+    "price": 46.26,
+    "rating": 4.1,
+    "reviews": 315,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:38.385562+00:00"
+  },
+  {
+    "id": "PRD-0009",
+    "name": "Notebook",
+    "category": "Electronics",
+    "price": 133.18,
+    "rating": 4.7,
+    "reviews": 373,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:38.485773+00:00"
+  },
+  {
+    "id": "PRD-0010",
+    "name": "Face Cream",
+    "category": "Sports",
+    "price": 112.15,
+    "rating": 4.0,
+    "reviews": 52,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:38.586821+00:00"
+  },
+  {
+    "id": "PRD-0011",
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 25.25,
+    "rating": 4.3,
+    "reviews": 485,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:38.689367+00:00"
+  },
+  {
+    "id": "PRD-0012",
+    "name": "Sunglasses",
+    "category": "Sports",
+    "price": 126.94,
+    "rating": 4.2,
+    "reviews": 193,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:38.793365+00:00"
+  },
+  {
+    "id": "PRD-0013",
+    "name": "Watch",
+    "category": "Books",
+    "price": 37.46,
+    "rating": 4.8,
+    "reviews": 227,
+    "in_stock": false,
+    "scraped_at": "2026-11-18T17:26:38.897355+00:00"
+  },
+  {
+    "id": "PRD-0014",
+    "name": "Watch",
+    "category": "Sports",
+    "price": 45.26,
+    "rating": 4.8,
+    "reviews": 420,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:38.998265+00:00"
+  },
+  {
+    "id": "PRD-0015",
+    "name": "Running Shorts",
+    "category": "Sports",
+    "price": 62.91,
+    "rating": 4.3,
+    "reviews": 92,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:39.101377+00:00"
+  },
+  {
+    "id": "PRD-0016",
+    "name": "Coffee Maker",
+    "category": "Electronics",
+    "price": 119.07,
+    "rating": 3.7,
+    "reviews": 434,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:39.201610+00:00"
+  },
+  {
+    "id": "PRD-0017",
+    "name": "Stainless Steel Water Bottle",
+    "category": "Home & Garden",
+    "price": 59.12,
+    "rating": 4.9,
+    "reviews": 27,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:39.301908+00:00"
+  },
+  {
+    "id": "PRD-0018",
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Home & Garden",
+    "price": 22.99,
+    "rating": 3.8,
+    "reviews": 353,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:39.402115+00:00"
+  },
+  {
+    "id": "PRD-0019",
+    "name": "LED Desk Lamp",
+    "category": "Books",
+    "price": 36.09,
+    "rating": 4.8,
+    "reviews": 469,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:39.502328+00:00"
+  },
+  {
+    "id": "PRD-0020",
+    "name": "Watch",
+    "category": "Clothing",
+    "price": 32.9,
+    "rating": 4.1,
+    "reviews": 127,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:26:39.602537+00:00"
+  }
+]
