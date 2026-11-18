@@ -1,0 +1,202 @@
+[
+  {
+    "id": "PRD-0001",
+    "name": "Watch",
+    "category": "Home & Garden",
+    "price": 56.34,
+    "rating": 3.8,
+    "reviews": 461,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122429+00:00"
+  },
+  {
+    "id": "PRD-0002",
+    "name": "Bluetooth Speaker",
+    "category": "Clothing",
+    "price": 53.77,
+    "rating": 4.5,
+    "reviews": 82,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122495+00:00"
+  },
+  {
+    "id": "PRD-0003",
+    "name": "Laptop Stand",
+    "category": "Clothing",
+    "price": 23.56,
+    "rating": 4.3,
+    "reviews": 263,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122514+00:00"
+  },
+  {
+    "id": "PRD-0004",
+    "name": "Kitchen Knife Set",
+    "category": "Clothing",
+    "price": 49.23,
+    "rating": 4.7,
+    "reviews": 298,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122531+00:00"
+  },
+  {
+    "id": "PRD-0005",
+    "name": "Bluetooth Speaker",
+    "category": "Sports",
+    "price": 146.84,
+    "rating": 4.2,
+    "reviews": 387,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122546+00:00"
+  },
+  {
+    "id": "PRD-0006",
+    "name": "Coffee Maker",
+    "category": "Books",
+    "price": 28.54,
+    "rating": 4.5,
+    "reviews": 73,
+    "in_stock": false,
+    "scraped_at": "2026-11-18T17:43:38.122561+00:00"
+  },
+  {
+    "id": "PRD-0007",
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Clothing",
+    "price": 71.9,
+    "rating": 4.6,
+    "reviews": 118,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122576+00:00"
+  },
+  {
+    "id": "PRD-0008",
+    "name": "Watch",
+    "category": "Clothing",
+    "price": 36.42,
+    "rating": 3.7,
+    "reviews": 428,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122590+00:00"
+  },
+  {
+    "id": "PRD-0009",
+    "name": "Sunglasses",
+    "category": "Electronics",
+    "price": 63.58,
+    "rating": 3.8,
+    "reviews": 363,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122605+00:00"
+  },
+  {
+    "id": "PRD-0010",
+    "name": "Watch",
+    "category": "Electronics",
+    "price": 116.81,
+    "rating": 4.9,
+    "reviews": 358,
+    "in_stock": false,
+    "scraped_at": "2026-11-18T17:43:38.122621+00:00"
+  },
+  {
+    "id": "PRD-0011",
+    "name": "Stainless Steel Water Bottle",
+    "category": "Electronics",
+    "price": 135.07,
+    "rating": 4.0,
+    "reviews": 414,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122635+00:00"
+  },
+  {
+    "id": "PRD-0012",
+    "name": "Sunglasses",
+    "category": "Sports",
+    "price": 83.48,
+    "rating": 4.8,
+    "reviews": 58,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122649+00:00"
+  },
+  {
+    "id": "PRD-0013",
+    "name": "Bluetooth Speaker",
+    "category": "Clothing",
+    "price": 37.72,
+    "rating": 4.3,
+    "reviews": 10,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122663+00:00"
+  },
+  {
+    "id": "PRD-0014",
+    "name": "Coffee Maker",
+    "category": "Clothing",
+    "price": 69.17,
+    "rating": 4.4,
+    "reviews": 185,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122677+00:00"
+  },
+  {
+    "id": "PRD-0015",
+    "name": "Umbrella",
+    "category": "Home & Garden",
+    "price": 82.48,
+    "rating": 4.5,
+    "reviews": 364,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122690+00:00"
+  },
+  {
+    "id": "PRD-0016",
+    "name": "Notebook",
+    "category": "Books",
+    "price": 13.1,
+    "rating": 5.0,
+    "reviews": 200,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122704+00:00"
+  },
+  {
+    "id": "PRD-0017",
+    "name": "Notebook",
+    "category": "Electronics",
+    "price": 72.54,
+    "rating": 4.4,
+    "reviews": 357,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122717+00:00"
+  },
+  {
+    "id": "PRD-0018",
+    "name": "Backpack",
+    "category": "Sports",
+    "price": 121.36,
+    "rating": 4.2,
+    "reviews": 20,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122730+00:00"
+  },
+  {
+    "id": "PRD-0019",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 100.6,
+    "rating": 3.9,
+    "reviews": 190,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122756+00:00"
+  },
+  {
+    "id": "PRD-0020",
+    "name": "T-Shirt",
+    "category": "Home & Garden",
+    "price": 49.56,
+    "rating": 4.0,
+    "reviews": 406,
+    "in_stock": true,
+    "scraped_at": "2026-11-18T17:43:38.122772+00:00"
+  }
+]
